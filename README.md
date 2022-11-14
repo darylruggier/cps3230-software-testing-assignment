@@ -7,4 +7,4 @@ To run the rests, run "jest scraper.test.js" in the terminal.
 # Task 2
 To run the cucumber tests, run "npx cucumber-js" in the terminal.
 
-##### (note: install all of the dependencies & run the commands in the root directory)
+##### (note: install all of the dependencies via "npm install" & run the commands in the root directory)
